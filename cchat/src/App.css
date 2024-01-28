@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media(max-aspect-ratio:7/10){
+    .JoinContainer{
+        width: 100% !important;
+    }
+}
